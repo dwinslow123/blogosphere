@@ -1,0 +1,14 @@
+.Login-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.Login-group {
+  margin: .5rem 5rem;
+}
+
+.SubmitButton {
+  width: 12.5rem;
+  margin: 0 auto;
+}
